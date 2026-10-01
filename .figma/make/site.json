@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a fully compliant, extensible system that meets all specified requirements while enhancing functionality and usability for seamless operations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
